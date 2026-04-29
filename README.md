@@ -8,7 +8,7 @@ Each task lives in its own folder. See the task-specific `report.md` inside each
 
 | Task | Topic | Status | Live Demo |
 |------|-------|--------|-----------|
-| [task-1](./task-1) | Vibe Coding — Leaderboard Clone | ✅ Done | [Open](https://YOUR_USERNAME.github.io/YOUR_REPO/task-1/) |
+| [task-1](./task-1) | Vibe Coding — Leaderboard Clone | ✅ Done | [Open](https://alud.github.io/AI-Challenge-2/task-1/) |
 | [task-2](./task-2) | _TBA_ | ⏳ Pending | — |
 | [task-3](./task-3) | _TBA_ | ⏳ Pending | — |
 | [task-4](./task-4) | _TBA_ | ⏳ Pending | — |
@@ -22,4 +22,3 @@ All solutions follow the responsible AI usage policy — no corporate data, real
 ## Hosting
 
 The repository is deployed via **GitHub Pages**. Each task with a deployable artifact is reachable at:
-
